@@ -1,0 +1,46 @@
+<package>
+	<id>com.supermamon.fullpackage</id>
+	<name>OS Experience (iOS 6)</name>
+	<version>1.0.0-6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Cracked version of tweak "OS Experience (iOS 6)"</shortDescription>
+	<descriptionlist>
+		<description>Cracked version of tweak "OS Experience (iOS 6)"</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>image1</description>
+			<image>cydia1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>image2</description>
+			<image>cydia2.jpg</image>
+		<screenshot>
+			<description>image3</description>
+			<image>cydia3.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>image4</description>
+			<image>cydia4.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

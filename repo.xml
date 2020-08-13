@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Visit my blog!</name>
+			<url>https://blog.archve.ga</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Go to SKYLab</name>
+			<url>https://cafe.naver.com/white2020</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
